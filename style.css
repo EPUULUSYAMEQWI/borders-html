@@ -1,0 +1,35 @@
+.box1{
+    border: 6px solid blue;
+    width:400px;
+    height:400px;
+    margin-left: 300px;
+    margin:100px 200px;
+    padding: 20px;
+}
+.box1 .box2{
+    border: 4px solid purple;
+    width: 300px;
+    height: 300px;
+    padding: 6% 7%;
+    margin-right: 200px;
+    margin-top: 30px 40px;
+    right: 20px;
+}
+.box1 .box2 .box3{
+    border:6px solid red;
+    width:200px;
+    height:200px;
+    padding: 4% 5% 5% 6%;
+    border:solid green;
+    margin: 4px 0px 30px;
+    text-align:center;
+    margin-right: 30px;
+}
+
+h1{
+    background-color: blue;
+    text-align: center;
+}
+
+    
+     
